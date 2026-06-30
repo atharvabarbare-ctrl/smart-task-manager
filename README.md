@@ -35,7 +35,7 @@ A full-stack Task Management application built using MERN Stack with authenticat
 
 ## 🌐 Live Demo
 
-Frontend: https://your-vercel-link.vercel.app  
+Frontend: https://smart-task-manager.vercel.app  
 Backend: https://smart-task-manager-api-n9jf.onrender.com
 
 ---
